@@ -1,0 +1,10 @@
+{
+  "description": "Centralized dashboard enabling admins to monitor AI-powered SD-WAN network health, view device details, receive AI insights, and execute network actions efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
